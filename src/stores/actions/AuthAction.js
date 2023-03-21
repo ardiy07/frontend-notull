@@ -1,0 +1,5 @@
+export const SET_LOADING = 'SET_LOADING'
+export const SIGN_IN_SUCCES = 'SIGN_IN_SUCCES'
+export const SIGN_IN_FAILED = 'SIGN_IN_FAILED'
+export const SIGN_UP_SUCCES = 'SIGN_UP_SUCCES'
+export const SIGN_UP_FAILED = 'SIGN_UP_FAILED'
